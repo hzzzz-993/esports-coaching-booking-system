@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+pydantic
+pyjwt
+# Add your database driver here (e.g., asyncpg for PostgreSQL, or mysqlclient for MySQL)
