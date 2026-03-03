@@ -1,2 +1,3 @@
-# esports-coaching-booking-system
-基于Python的电竞专业带练预约系统
+# Esports Coaching Booking System
+
+This project is designed to manage bookings for esports coaching sessions.
